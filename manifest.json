@@ -1,0 +1,11 @@
+{
+  "version": "2025-10-18T12:00:00Z",
+  "files": [
+    {
+      "name": "team_tasks",
+      "path": "team_tasks.csv",
+      "format": "csv",
+      "updated": "2025-10-18"
+    }
+  ]
+}
